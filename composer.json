@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "TestCase\\": "src/"
+        }
+    },
+
+    "config": {
+        "bin-dir": "bin"
+    },
+
+    "require": {
+        "doctrine/orm": "^2.6"
+    }
+}
